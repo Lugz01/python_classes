@@ -131,6 +131,6 @@ for num in range(5):
         break
     print(num)
 
-# names_of_people.clear()
-# print((names_of_people))
+names_of_people.clear()
+print((names_of_people))
 
